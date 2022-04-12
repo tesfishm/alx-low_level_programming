@@ -99,3 +99,4 @@ implementing `while` loops.
     * `00 01` and `01 00` are considered the same as the combination of of the numbers `0` and `1`.
     * Combinations of numbers are separated by `,`, followed by a space.
     * Combinations of numbers are printed in ascending order.
+Committed
