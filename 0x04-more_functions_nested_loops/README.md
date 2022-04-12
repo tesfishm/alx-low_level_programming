@@ -83,3 +83,4 @@ In this project, I continued to learn about using nested loops and writing funct
 * **12. Numbers have life; they're not just symbols on paper**
   * [101-print_number.c](./101-print_number.c): C function that prints an integer without
   using `long`, arrays, pointers, or hard-coded special values.
+Committed 
